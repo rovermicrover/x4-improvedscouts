@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<diff>
+    <add sel="//macros/macro[@name='ship_tel_s_scout_01_a_macro']/properties">
+        <radar range="60000" />
+    </add>
+</diff>

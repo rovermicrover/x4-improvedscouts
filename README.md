@@ -8,7 +8,7 @@ Scouts serve no purpose beyond being a starting ship. They are out classed in ev
 
 # Links
 
-[Egosoft Forum]()
+[Egosoft Forum](https://forum.egosoft.com/viewtopic.php?f=181&t=419683)
 
 [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=1902196111)
 

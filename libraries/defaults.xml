@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<diff>
+    <replace sel="//defaults/dataset[@class='ship_s']/properties/statistics/max/radar/@range">72000.000000</replace>
+</diff>

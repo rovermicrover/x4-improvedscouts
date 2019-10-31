@@ -17,3 +17,5 @@ Scouts serve no purpose beyond being a starting ship. They are out classed in ev
 # History
 
 1.00 Release Version
+
+1.02 Ensure equipment screen for small ships reflects new max values.

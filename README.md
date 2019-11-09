@@ -2,6 +2,14 @@
 
 Scouts serve no purpose beyond being a starting ship. They are out classed in every way except for the Pegasus because of its speed. This mod aims to fix that by giving all scouts a 50% boot to their radar range. Hopefully making them a useful part of any fleet.
 
+# Compatibility
+
+Works with These Other Mods That Adds Scouts. They are listed as optional dependencies for compatibility.
+
+https://github.com/rovermicrover/x4-pirate-kestrel-raider
+
+https://github.com/rovermicrover/x4-pirate-discoverer-raider
+
 # What Is Modified?
 
 * The macro files for all scounts

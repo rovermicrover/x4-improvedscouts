@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<content name="Improved Scouts" description="Improves Scouts By Increasing Their Radar Range By 50%" author="RoverTX" version="106" save="0" date="2019-10-29" id="ws_1902196111">
-  <dependency id="ws_1909074997" optional="1" name="Pirate Discoverer Raider"></dependency>
-  <dependency id="ws_1909071060" optional="1" name="Pirate Kestrel Raider"></dependency>
+<content name="Improved Scouts" description="Improves Scouts By Increasing Their Radar Range By 50%" author="RoverTX" version="107" save="0" date="2019-10-29" id="ws_1902196111">
   <text language="44" name="Improved Scouts" description="Improves Scouts By Increasing Their Radar Range By 50%" author="RoverTX"/>
 </content>

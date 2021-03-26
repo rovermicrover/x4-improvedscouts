@@ -1,6 +1,6 @@
 # About
 
-Scouts serve no purpose beyond being a starting ship. They are out classed in every way except for the Pegasus because of its speed. This mod aims to fix that by giving all scouts a 50% boot to their radar range. Hopefully making them a useful part of any fleet.
+Scouts serve no purpose beyond being a starting ship. They are out classed in every way except for the Pegasus because of its speed. This mod aims to fix that by giving all scouts a 50% boot to their radar range. Hopefully making them a useful part of any fleet. Works with both expansions.
 
 # Compatibility
 
@@ -27,3 +27,5 @@ https://github.com/rovermicrover/x4-pirate-discoverer-raider
 1.00 Release Version
 
 1.02 Ensure equipment screen for small ships reflects new max values.
+
+1.09 Add Support For Split/Terran Ships
